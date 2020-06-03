@@ -13,6 +13,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Delete Node PY](/day_2/delete_node.py)
 - [Delete Node JS](/day_2/delete_node.js) 
 
+### day_3: Two City Scheduling
+
+- [Two City Scheduling PY](/day_3/two_cities_scheduling.py)
+- [Two City Scheduling JS](/day_3/two_cities_scheduling.js) 
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
