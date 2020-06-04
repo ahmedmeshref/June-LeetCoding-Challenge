@@ -18,6 +18,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Two City Scheduling PY](/day_3/two_cities_scheduling.py)
 - [Two City Scheduling JS](/day_3/two_cities_scheduling.js) 
 
+### day_4: Reverse String
+
+- [Reverse String PY](/day_4/reverse_string.py)
+- [Reverse String JS](/day_4/reverse_string.js) 
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
