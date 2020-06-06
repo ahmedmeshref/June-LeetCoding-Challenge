@@ -23,6 +23,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Reverse String PY](/day_4/reverse_string.py)
 - [Reverse String JS](/day_4/reverse_string.js) 
 
+### day_6: Queue Reconstruction by Height
+
+- [Queue Reconstruction by Height PY](/day_6/queue_reconstruction_by_height.py)
+- [Queue Reconstruction by Height JS](/day_6/queue_reconstruction_by_height.js) 
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:

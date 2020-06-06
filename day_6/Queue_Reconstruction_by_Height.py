@@ -15,6 +15,30 @@ Output:
 """
 
 
+# def reconstructQueue(people):
+#     """
+#     people reconstructs the given queue n people.
+#     :param people: list of list, where elements are pairs of integers [h, k], where h is the height of the person and k
+#      is the number of people in front of this person who have a height greater than or equal to h
+#     :return: lists of lists represents the constructed queue.
+#     """
+#     people.sort(key=lambda x: (x[0], -x[1]))
+#     n = len(people)
+#     cons_people = [0] * n
+#     for person in people:
+#         people_before = person[1]
+#         i = 0
+#         while people_before > 0 or cons_people[i]:
+#             if not cons_people[i]:
+#                 people_before -= 1
+#             i += 1
+#             if i == n - 1:
+#                 break
+#         cons_people[i] = person
+#     return cons_people
+
+
+# shorter solution
 def reconstructQueue(people):
     """
     people reconstructs the given queue n people.
@@ -22,22 +46,13 @@ def reconstructQueue(people):
      is the number of people in front of this person who have a height greater than or equal to h
     :return: lists of lists represents the constructed queue.
     """
-    people.sort(key=lambda x: (x[0], -x[1]))
-    n = len(people)
-    cons_people = [0] * n
+    people.sort(key=lambda x: (-x[0], x[1]))
+    cons_people = []
     for person in people:
-        people_before = person[1]
-        i = 0
-        while people_before > 0 or cons_people[i]:
-            if not cons_people[i]:
-                people_before -= 1
-            i += 1
-            if i == n - 1:
-                break
-        cons_people[i] = person
+        cons_people.insert(person[1], person)
     return cons_people
 
 
-
-lst = [[7, 0], [4, 4], [7, 1], [5, 0], [6, 2], [5, 2], [4, 2], [2, 1], [2, 0], [5, 2]]
+# Note: this part is for testing only and it is not part of the leetcode solution
+lst = [[9, 0], [7, 0], [1, 9], [3, 0], [2, 7], [5, 3], [6, 0], [3, 4], [6, 2], [5, 2]]
 print(reconstructQueue(lst))
