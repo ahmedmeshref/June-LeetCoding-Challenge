@@ -13,9 +13,10 @@ Explanation: there are four ways to make up the amount:
  */
 
 /**
- *
- * @param amount
- * @param coins
+ * change function compute the number of combinations that make up a given amount of money using given coins
+ * @param amount {number}: total amount of money
+ * @param coins {number[]} coins amount
+ * @return {number}
  */
 let change = function(amount, coins){
     let dp = new Array(amount+1).fill(0),

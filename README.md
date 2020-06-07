@@ -28,6 +28,12 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Queue Reconstruction by Height PY](/day_6/queue_reconstruction_by_height.py)
 - [Queue Reconstruction by Height JS](/day_6/queue_reconstruction_by_height.js) 
 
+### day_6: Coin Change 2
+
+- [Coin Change 2 PY](/day_7/coin_change_2.py)
+- [Coin Change 2 JS](/day_7/change_coin_2.js) 
+
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
