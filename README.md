@@ -33,6 +33,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Coin Change 2 PY](/day_7/coin_change_2.py)
 - [Coin Change 2 JS](/day_7/change_coin_2.js) 
 
+### day_6: Power of two
+
+- [Power of two PY](/day_8/power_of_2.py)
+- [Power of two JS](/day_8/power_of_2.js) 
+
 
 # Contributing
 
