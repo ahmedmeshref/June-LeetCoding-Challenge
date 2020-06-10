@@ -43,6 +43,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Is Subsequence PY](/day_9/is_subsequence.py)
 - [Is Subsequence JS](/day_9/is_subsequence.js) 
 
+### day_10: Search Insert Position
+
+- [Search Insert Position PY](/day_10/search_insert_position.py)
+- [Search Insert Position JS](/day_10/search_insert_position.js) 
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
