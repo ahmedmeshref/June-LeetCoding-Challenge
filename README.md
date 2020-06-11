@@ -48,6 +48,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - [Search Insert Position PY](/day_10/search_insert_position.py)
 - [Search Insert Position JS](/day_10/search_insert_position.js) 
 
+### day_11: Sort Colors
+
+- [Sort Colors PY](/day_11/sort_colors.py)
+- [Sort Colors JS](/day_11/sort_colors.js) 
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:

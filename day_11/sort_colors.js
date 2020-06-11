@@ -5,26 +5,19 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 let sortColors = function (nums) {
-    let Obj = {};
-    // count the occurrence of each color
-    for (const ele of nums) {
-        if (ele in Obj) Obj[ele]++;
-        else Obj[ele] = 1;
-    }
-    let c_ind = 0;
-    // overwrite the array's indices
-    for (let i = 0; i < 3; i++) {
-        for (let j = 0; j < Obj[i]; j++) {
-            nums[c_ind + j] = i;
+    let start = 0,
+        i = 0,
+        j = nums.length - 1;
+    while (i <= j){
+        if (nums[i] === 0){
+            [nums[i], nums[start]] = [nums[start], nums[i]];
+            i++; start++;
+        } else if (nums[i] === 1) {
+            i++;
+        } else {
+            [nums[i], nums[j]] = [nums[j], nums[i]];
+            j--;
         }
-        c_ind += Obj[i];
     }
-    // The return statement is for local testing only and it is not part of the LeetCode challenge solution
-    return nums;
 };
 
-// the below lines are for testing only and it is not part of the solution
-console.log(sortColors([2, 2, 2, 1, 0, 2, 2, 0]))
-console.log(sortColors([2, 2, 2, 0, 2, 2, 0]))
-console.log(sortColors([2, 2, 2, 1]))
-console.log(sortColors([]))
