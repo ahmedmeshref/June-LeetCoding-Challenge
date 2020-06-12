@@ -1,57 +1,63 @@
 # June-LeetCoding-Challenge
-Python and JavaScript solutions for June LeetCoding Challenge.
+Python and JavaScript solutions for June LeetCoding Challenge. 
 
 **Note:** These solutions are provided **as a reference**.
 
+
+`PY` - Python, `JS` - JavaScript
 ### day_1: Invert a Tree
 
-- [Inver Tree PY](/day_1/invert_tree.py)
-- [Inver Tree JS](/day_1/invert_tree.js) 
+- `PY` [Inver Tree](/day_1/invert_tree.py)
+- `JS` [Inver Tree](/day_1/invert_tree.js) 
 
 ### day_2: Delete Node in a Linked List
 
-- [Delete Node PY](/day_2/delete_node.py)
-- [Delete Node JS](/day_2/delete_node.js) 
+- `PY` [Delete Node](/day_2/delete_node.py)
+- `JS` [Delete Node](/day_2/delete_node.js) 
 
 ### day_3: Two City Scheduling
 
-- [Two City Scheduling PY](/day_3/two_cities_scheduling.py)
-- [Two City Scheduling JS](/day_3/two_cities_scheduling.js) 
+- `PY` [Two City Scheduling](/day_3/two_cities_scheduling.py)
+- `JS` [Two City Scheduling](/day_3/two_cities_scheduling.js) 
 
 ### day_4: Reverse String
 
-- [Reverse String PY](/day_4/reverse_string.py)
-- [Reverse String JS](/day_4/reverse_string.js) 
+- `PY` [Reverse String](/day_4/reverse_string.py)
+- `JS` [Reverse String](/day_4/reverse_string.js) 
 
 ### day_6: Queue Reconstruction by Height
 
-- [Queue Reconstruction by Height PY](/day_6/queue_reconstruction_by_height.py)
-- [Queue Reconstruction by Height JS](/day_6/queue_reconstruction_by_height.js) 
+- `PY` [Queue Reconstruction by Height](/day_6/queue_reconstruction_by_height.py)
+- `JS` [Queue Reconstruction by Height](/day_6/queue_reconstruction_by_height.js) 
 
 ### day_7: Coin Change 2
 
-- [Coin Change 2 PY](/day_7/coin_change_2.py)
-- [Coin Change 2 JS](/day_7/change_coin_2.js) 
+- `PY` [Coin Change 2](/day_7/coin_change_2.py)
+- `JS` [Coin Change 2](/day_7/change_coin_2.js) 
 
 ### day_8: Power of two
 
-- [Power of two PY](/day_8/power_of_2.py)
-- [Power of two JS](/day_8/power_of_2.js) 
+- `PY` [Power of two](/day_8/power_of_2.py)
+- `JS` [Power of two](/day_8/power_of_2.js) 
 
 ### day_9: Is Subsequence
 
-- [Is Subsequence PY](/day_9/is_subsequence.py)
-- [Is Subsequence JS](/day_9/is_subsequence.js) 
+- `PY` [Is Subsequence](/day_9/is_subsequence.py)
+- `JS` [Is Subsequence](/day_9/is_subsequence.js) 
 
 ### day_10: Search Insert Position
 
-- [Search Insert Position PY](/day_10/search_insert_position.py)
-- [Search Insert Position JS](/day_10/search_insert_position.js) 
+- `PY` [Search Insert Position](/day_10/search_insert_position.py)
+- `JS` [Search Insert Position](/day_10/search_insert_position.js) 
 
 ### day_11: Sort Colors
 
-- [Sort Colors PY](/day_11/sort_colors.py)
-- [Sort Colors JS](/day_11/sort_colors.js) 
+- `PY` [Sort Colors](/day_11/sort_colors.py)
+- `JS` [Sort Colors](/day_11/sort_colors.js) 
+
+## day_12: Insert Delete GetRandom O(1)
+
+- `PY` [Insert Delete GetRandom O(1)](/day_12/insert_delete_O(1).py)
 
 # Contributing
 
