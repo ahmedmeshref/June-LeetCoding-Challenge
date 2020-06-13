@@ -12,6 +12,7 @@ from collections import Counter
 
 
 def sort_colors(nums):
+
     start = 0
     i = 0
     j = len(nums) - 1
