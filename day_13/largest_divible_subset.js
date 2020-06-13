@@ -30,7 +30,3 @@ let max_ele = (arr) => {
 }
 
 
-
-
-let n = [1, 4, 3, 10, 12];
-console.log(largestDivisibleSubset(n));
