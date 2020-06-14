@@ -64,6 +64,10 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [Largest Divisible Subset](/day_13/largest_divisible_subset.py)
 - `JS` [Largest Divisible Subset](/day_13/largest_divible_subset.js) 
 
+### day_13: Cheapest Flights Within K Stops
+
+- `PY` [Cheapest Flights Within K Stops](/day_14/cheapest_flights_within_K_stops.py)
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
