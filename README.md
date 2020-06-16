@@ -73,6 +73,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [Search in a Binary Search Tree](/day_15/search_in_a_binary_search_tree.py)
 - `JS` [Search in a Binary Search Tree](/day_15/search_in_a_binary_search_tree.js)
 
+### day_16: Validate IP Address 
+
+- `PY` [Validate IP Address](/day_16/validate_IP_address.py)
+- `JS` [Validate IP Address](/day_16/validate_IP_address.js)
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
