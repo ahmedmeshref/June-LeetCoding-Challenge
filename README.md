@@ -82,6 +82,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 
 - `PY` [Surrounded Regions](/day_17/surrounded_regions.py)
 
+### day_18: H-Index II 
+
+- `PY` [H-Index II](/day_18/H-Index_II.py)
+- `JS` [H-Index II](/day_18/H-index_II.js)
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
