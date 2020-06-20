@@ -91,6 +91,9 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 
 - `PY` [Longest Duplicate Substring](/day_19/longest_duplicate_substring.py)
 
+### day_20: Permutation Sequence   
+
+- `PY` [Permutation Sequence](/day_20/permutation_sequence.py)
 
 # Contributing
 
