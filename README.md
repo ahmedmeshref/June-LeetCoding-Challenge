@@ -87,6 +87,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [H-Index II](/day_18/H-Index_II.py)
 - `JS` [H-Index II](/day_18/H-index_II.js)
 
+### day_19: Longest Duplicate Substring  
+
+- `PY` [Longest Duplicate Substring](/day_19/longest_duplicate_substring.py)
+
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
