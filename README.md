@@ -100,7 +100,10 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [Dungeon Game](/day_21/dungeon_game.py)
 - `JS` [Dungeon Game](/day_21/dungeon_game.js)
 
+### day_21: Count Complete Tree Nodes
 
+- `PY` [Count Complete Tree Nodes](/day_22/count_complete_tree_nodes.py)
+- `JS` [Count Complete Tree Nodes](/day_22/count_complete_tree_nodes.js)
 
 # Contributing
 
