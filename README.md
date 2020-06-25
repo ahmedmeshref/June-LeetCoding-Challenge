@@ -109,6 +109,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 
 - `JS` [Unique Binary Search Trees](/day_23/unique_binary_search_trees.js)
 
+## Find the Duplicate Number
+
+- `PY` [Find the Duplicate Number](/day_24/find_duplicate_number.py)
+- `JS` [Find the Duplicate Number](/day_24/find_duplicate_number.js)
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
