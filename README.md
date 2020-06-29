@@ -122,6 +122,11 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 
 - `PY` [Reconstruct Itinerary](/day_28/reconstruct_itinerary.py)
 
+## day_29: Unique Paths
+
+- `PY` [Unique Paths](/day_29/unique_paths.py)
+- `JS` [Unique Paths](/day_29/unique_paths.js)
+
 # Contributing
 
 All contributions are welcome. Please find a list below of general improvements that need to be added:
