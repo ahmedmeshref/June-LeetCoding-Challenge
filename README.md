@@ -113,20 +113,20 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 
 - `JS` [Unique Binary Search Trees](/day_24/unique_binary_search_trees.js)
 
-## day_25: Find the Duplicate Number
+### day_25: Find the Duplicate Number
 
 - `PY` [Find the Duplicate Number](/day_25/find_duplicate_number.py)
 - `JS` [Find the Duplicate Number](/day_25/find_duplicate_number.js)
 
-## day_26: Sum Root to Leaf Number
+### day_26: Sum Root to Leaf Number
 
 - `PY` [Sum Root to Leaf Number](/day_26/sum_root_to_leaf_numbers.py)
 
-## day_28: Reconstruct Itinerary
+### day_28: Reconstruct Itinerary
 
 - `PY` [Reconstruct Itinerary](/day_28/reconstruct_itinerary.py)
 
-## day_29: Unique Paths
+### day_29: Unique Paths
 
 - `PY` [Unique Paths](/day_29/unique_paths.py)
 - `JS` [Unique Paths](/day_29/unique_paths.js)
