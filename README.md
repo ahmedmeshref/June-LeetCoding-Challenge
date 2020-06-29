@@ -55,7 +55,7 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [Sort Colors](/day_11/sort_colors.py)
 - `JS` [Sort Colors](/day_11/sort_colors.js) 
 
-## day_12: Insert Delete GetRandom O(1)
+### day_12: Insert Delete GetRandom O(1)
 
 - `PY` [Insert Delete GetRandom O(1)](/day_12/insert_delete_O(1).py)
 
@@ -100,23 +100,27 @@ Python and JavaScript solutions for June LeetCoding Challenge.
 - `PY` [Dungeon Game](/day_21/dungeon_game.py)
 - `JS` [Dungeon Game](/day_21/dungeon_game.js)
 
-### day_22: Count Complete Tree Nodes
+### day_22: Single Number II
 
-- `PY` [Count Complete Tree Nodes](/day_22/count_complete_tree_nodes.py)
-- `JS` [Count Complete Tree Nodes](/day_22/count_complete_tree_nodes.js)
+- `PY` [Single Number II](/day_22/single_number_II.py)
 
 ### day_23: Count Complete Tree Nodes
 
-- `JS` [Unique Binary Search Trees](/day_23/unique_binary_search_trees.js)
+- `PY` [Count Complete Tree Nodes](/day_23/count_complete_tree_nodes.py)
+- `JS` [Count Complete Tree Nodes](/day_23/count_complete_tree_nodes.js)
 
-## day_24: Find the Duplicate Number
+### day_24: Count Complete Tree Nodes
 
-- `PY` [Find the Duplicate Number](/day_24/find_duplicate_number.py)
-- `JS` [Find the Duplicate Number](/day_24/find_duplicate_number.js)
+- `JS` [Unique Binary Search Trees](/day_24/unique_binary_search_trees.js)
 
-## day_25: Sum Root to Leaf Number
+## day_25: Find the Duplicate Number
 
-- `PY` [Sum Root to Leaf Number](/day_25/sum_root_to_leaf_numbers.py)
+- `PY` [Find the Duplicate Number](/day_25/find_duplicate_number.py)
+- `JS` [Find the Duplicate Number](/day_25/find_duplicate_number.js)
+
+## day_26: Sum Root to Leaf Number
+
+- `PY` [Sum Root to Leaf Number](/day_26/sum_root_to_leaf_numbers.py)
 
 ## day_28: Reconstruct Itinerary
 
